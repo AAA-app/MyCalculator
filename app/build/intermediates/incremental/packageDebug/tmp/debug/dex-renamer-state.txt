@@ -1,0 +1,4 @@
+#Fri Jun 28 22:34:21 IDT 2019
+base.0=C\:\\Users\\Sasha\\AndroidStudioProjects\\MyCalculator\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
