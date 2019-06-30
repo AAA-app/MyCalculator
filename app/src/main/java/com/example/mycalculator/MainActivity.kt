@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         //startActivity(Intent(this, date::class.java))
 
         val animationList = (main.background as AnimationDrawable)
-        animationList.start()
+        animationList.start() ///
 
         //Numbers
         tvOne.setOnClickListener { appendOnExpresstion("1", true) }
