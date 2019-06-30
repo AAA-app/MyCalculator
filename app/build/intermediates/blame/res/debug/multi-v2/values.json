@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Sasha\\AndroidStudioProjects\\MyCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Sasha\\AndroidStudioProjects\\My Calculator1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\Sasha\\AndroidStudioProjects\\MyCalculator\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17,69,104",
-                        "endColumns": "50,33,37",
-                        "endOffsets": "63,98,137"
-                    },
-                    "to": {
-                        "startLines": "382,383,386",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "22800,22851,23009",
-                        "endColumns": "50,33,37",
-                        "endOffsets": "22846,22880,23042"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Sasha\\.gradle\\caches\\transforms-2\\files-2.1\\85f4fcc31fa5bc088d979b22d7197878\\constraintlayout-1.1.3\\res\\values\\values.xml",
                     "from": {
@@ -37,23 +20,6 @@
                         "endLines": "2,10,11,12,13,14,20,23,24,25,28,29,32,35,36,37,38,39,42,45,46,47,48,53,56,59,60,61,66,67,68,71,74,75,78,81,84,87,88,91,94,95,100,101,106,109,112,113,114,115,116,117,118,119,120,121,130,2578,2579,2580,2817",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3263,107",
                         "endOffsets": "206,497,545,597,658,704,947,1102,1162,1232,1365,1433,1562,1688,1750,1815,1883,1950,2073,2198,2265,2330,2395,2576,2697,2818,2884,2951,3161,3230,3296,3421,3547,3614,3740,3867,3992,4119,4184,4310,4433,4498,4706,4773,4953,5073,5193,5258,5320,5382,5444,5503,5563,5624,5685,5744,6119,163957,164089,167353,181421"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Sasha\\AndroidStudioProjects\\MyCalculator\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "5,7,4,2,3,9,6,8",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "204,300,157,57,105,385,252,345",
-                        "endColumns": "46,43,45,46,50,44,46,38",
-                        "endOffsets": "246,339,198,99,151,425,294,379"
-                    },
-                    "to": {
-                        "startLines": "141,146,155,156,157,164,183,204",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "6789,7155,7840,7886,7933,8385,9514,10967",
-                        "endColumns": "46,43,45,46,50,44,46,38",
-                        "endOffsets": "6831,7194,7881,7928,7979,8425,9556,11001"
                     }
                 },
                 {
@@ -95,6 +61,40 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Sasha\\AndroidStudioProjects\\My Calculator1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,7,4,2,3,9,6,8",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "204,300,157,57,105,385,252,345",
+                        "endColumns": "46,43,45,46,50,44,46,38",
+                        "endOffsets": "246,339,198,99,151,425,294,379"
+                    },
+                    "to": {
+                        "startLines": "141,146,155,156,157,164,183,204",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "6789,7155,7840,7886,7933,8385,9514,10967",
+                        "endColumns": "46,43,45,46,50,44,46,38",
+                        "endOffsets": "6831,7194,7881,7928,7979,8425,9556,11001"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sasha\\AndroidStudioProjects\\My Calculator1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,69,104",
+                        "endColumns": "50,33,37",
+                        "endOffsets": "63,98,137"
+                    },
+                    "to": {
+                        "startLines": "382,383,386",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "22800,22851,23009",
+                        "endColumns": "50,33,37",
+                        "endOffsets": "22846,22880,23042"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Sasha\\.gradle\\caches\\transforms-2\\files-2.1\\761da0155ffe3fcd66b2fa677cac5fc2\\coordinatorlayout-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -114,7 +114,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Sasha\\AndroidStudioProjects\\MyCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Sasha\\AndroidStudioProjects\\My Calculator1\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "14,2,9,25",
                         "startColumns": "4,4,4,4",

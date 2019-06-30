@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Sasha\\AndroidStudioProjects\\MyCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "C:\\Users\\Sasha\\AndroidStudioProjects\\My Calculator1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sasha\\.gradle\\caches\\transforms-2\\files-2.1\\058834f5ecf457b5467d227cd45ce4ac\\appcompat-1.0.2\\res\\values-pt-rBR\\values-pt-rBR.xml",
